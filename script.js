@@ -1,5 +1,5 @@
 "use strict";
-/////////Bankedia APP////////////////
+/////////Bankingfi APP////////////////
 
 // Data
 const account1 = {
